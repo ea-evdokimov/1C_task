@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="Docker-Concurrency-Course (85782bfe-73c0-404f-8404-47ef0b3061fe)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/1C_task" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

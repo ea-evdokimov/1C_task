@@ -1,0 +1,3 @@
+/home/egor/CLionProjects/1C_task/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/egor/CLionProjects/1C_task/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/egor/CLionProjects/1C_task/cmake-build-debug/CMakeFiles/1C_task.dir
