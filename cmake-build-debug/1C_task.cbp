@@ -82,7 +82,16 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/egor/CLionProjects/1C_task/const.hpp">
+			<Option target="1C_task"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/1C_task/deckstate.hpp">
+			<Option target="1C_task"/>
+		</Unit>
 		<Unit filename="/home/egor/CLionProjects/1C_task/main.cpp">
+			<Option target="1C_task"/>
+		</Unit>
+		<Unit filename="/home/egor/CLionProjects/1C_task/solver.hpp">
 			<Option target="1C_task"/>
 		</Unit>
 		<Unit filename="/home/egor/CLionProjects/1C_task/CMakeLists.txt">

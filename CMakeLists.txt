@@ -3,4 +3,4 @@ project(1C_task)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(1C_task main.cpp)
+add_executable(1C_task main.cpp deckstate.hpp solver.hpp const.hpp)

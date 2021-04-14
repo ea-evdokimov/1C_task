@@ -6,11 +6,25 @@
 
 #IncludeRegexTransform: 
 
+/home/egor/CLionProjects/1C_task/const.hpp
+
+/home/egor/CLionProjects/1C_task/deckstate.hpp
+const.hpp
+/home/egor/CLionProjects/1C_task/const.hpp
+
 /home/egor/CLionProjects/1C_task/main.cpp
 iostream
 -
-fstream
--
 vector
 -
+stack
+-
+cassert
+-
+solver.hpp
+/home/egor/CLionProjects/1C_task/solver.hpp
+
+/home/egor/CLionProjects/1C_task/solver.hpp
+deckstate.hpp
+/home/egor/CLionProjects/1C_task/deckstate.hpp
 
