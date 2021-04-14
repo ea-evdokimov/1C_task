@@ -142,6 +142,33 @@ depend:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1C_task.dir/build.make CMakeFiles/1C_task.dir/build
 .PHONY : 1C_task/fast
 
+deckstate.o: deckstate.cpp.o
+
+.PHONY : deckstate.o
+
+# target to build an object file
+deckstate.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1C_task.dir/build.make CMakeFiles/1C_task.dir/deckstate.cpp.o
+.PHONY : deckstate.cpp.o
+
+deckstate.i: deckstate.cpp.i
+
+.PHONY : deckstate.i
+
+# target to preprocess a source file
+deckstate.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1C_task.dir/build.make CMakeFiles/1C_task.dir/deckstate.cpp.i
+.PHONY : deckstate.cpp.i
+
+deckstate.s: deckstate.cpp.s
+
+.PHONY : deckstate.s
+
+# target to generate assembly for a file
+deckstate.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1C_task.dir/build.make CMakeFiles/1C_task.dir/deckstate.cpp.s
+.PHONY : deckstate.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -169,6 +196,33 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1C_task.dir/build.make CMakeFiles/1C_task.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+solver.o: solver.cpp.o
+
+.PHONY : solver.o
+
+# target to build an object file
+solver.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1C_task.dir/build.make CMakeFiles/1C_task.dir/solver.cpp.o
+.PHONY : solver.cpp.o
+
+solver.i: solver.cpp.i
+
+.PHONY : solver.i
+
+# target to preprocess a source file
+solver.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1C_task.dir/build.make CMakeFiles/1C_task.dir/solver.cpp.i
+.PHONY : solver.cpp.i
+
+solver.s: solver.cpp.s
+
+.PHONY : solver.s
+
+# target to generate assembly for a file
+solver.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1C_task.dir/build.make CMakeFiles/1C_task.dir/solver.cpp.s
+.PHONY : solver.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -178,9 +232,15 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... 1C_task"
+	@echo "... deckstate.o"
+	@echo "... deckstate.i"
+	@echo "... deckstate.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... solver.o"
+	@echo "... solver.i"
+	@echo "... solver.s"
 .PHONY : help
 
 

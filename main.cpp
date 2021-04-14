@@ -1,7 +1,4 @@
 #include <iostream>
-#include <vector>
-#include <stack>
-#include <cassert>
 #include "solver.hpp"
 
 

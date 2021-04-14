@@ -4,7 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/egor/CLionProjects/1C_task/deckstate.cpp" "/home/egor/CLionProjects/1C_task/cmake-build-debug/CMakeFiles/1C_task.dir/deckstate.cpp.o"
   "/home/egor/CLionProjects/1C_task/main.cpp" "/home/egor/CLionProjects/1C_task/cmake-build-debug/CMakeFiles/1C_task.dir/main.cpp.o"
+  "/home/egor/CLionProjects/1C_task/solver.cpp" "/home/egor/CLionProjects/1C_task/cmake-build-debug/CMakeFiles/1C_task.dir/solver.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

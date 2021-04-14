@@ -1,1 +1,1 @@
-/usr/bin/g++ -g -rdynamic CMakeFiles/1C_task.dir/main.cpp.o -o 1C_task 
+/usr/bin/g++ -Wall -Werror -g -rdynamic CMakeFiles/1C_task.dir/main.cpp.o CMakeFiles/1C_task.dir/deckstate.cpp.o CMakeFiles/1C_task.dir/solver.cpp.o -o 1C_task 
